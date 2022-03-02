@@ -8,7 +8,7 @@ global.self = false //jadiin true klo gk mau fitur bot lu di pke sama org lain
 global.ownername ="YANZZ"
 global.ownernumber = "6287768881161"
 global.botname = "YANZZ"
-global.thumbnail = fs.readFileSync("./settings/somp.jpg") //sesuaikan dengan nama foto
+global.thumbnail = fs.readFileSync("./settings/haruka.jpg") //sesuaikan dengan nama foto
 global.background = "https://telegra.ph/file/d4c05638fa7886a1d8060.jpg"
 global.limit = {
 		free:20,
